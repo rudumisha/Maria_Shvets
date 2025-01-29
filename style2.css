@@ -1,0 +1,152 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #2b1d0e;
+}
+
+h1 {
+    color: white;
+    font-size: 28px;
+}
+
+.img_logo {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 15px;
+    border: 7px dotted black;
+    background-color: #51351E;
+    border-radius: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: beige;
+    padding: 10px 20px;
+}
+
+main {
+    margin: 20px;
+}
+
+.bl2 {
+    width: 300px;
+    height: 200px;
+    border: 6px solid azure;
+
+}
+
+.bl3 {
+    width: 200px;
+    height: 200px;
+    border: 6px solid azure;
+}
+
+p {
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.bl4 {
+    width: 200px;
+    height: 200px;
+    border: 6px solid azure;
+}
+
+p {
+    color: antiquewhite;
+    margin-top: 25px;
+}
+
+.p34 {
+    width: 200px;
+    height: 200px;
+    border: 6px solid azure;
+    display: flex;
+}
+
+.pick {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 35px;
+}
+
+.sect {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.adressa {
+    background-color: ;
+    border-radius: 30px;
+    border: 5px dotted #51351E;
+    margin-top: 35px;
+}
+
+.menu {
+    text-align: center;
+    font-size: 60px;
+    margin: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sect {
+    flex-wrap: wrap;
+}
+
+.sect {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.reviews {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.reviews h2 {
+    font-size: 30px;
+    color: beige;
+}
+
+.review {
+    background-color: #3a2a19;
+    padding: 15px;
+    margin: 10px auto;
+    width: 60%;
+    border-radius: 10px;
+}
+
+.review p {
+    font-size: 18px;
+    color: white;
+}
+.footer_p{
+    margin: 20px;
+    font-size: 20px;
+}
+
+.adressa {
+    border-radius: 30px;
+    border: 5px dotted #51351E;
+    margin-top: 35px;
+    padding: 45px;
+}
